@@ -1,9 +1,9 @@
-<?php 
+<?php
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class MY_CONTROLLER extends CI_Controller {
-	
+
 	protected $pageData = array();
 
 	public function __construct(){
